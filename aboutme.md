@@ -5,8 +5,9 @@ title: About me
 
 Hi, I'm Aditya Iyengar and this is my personal webpage.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a second year undergraduate student at **IIT Bombay**. My major is in [**Mechanical Engineering**](me.iitb.ac.in).
+
+
 
 What else do you need?
 
