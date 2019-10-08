@@ -41,7 +41,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#003366"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -67,17 +67,15 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "adityaiyengar@iitb.ac.in"
+  facebook: aditya.iyengar.50
+  github: iyengaraditya
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: aditya-iyengar-096729184
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: adityaiyengar3108
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
