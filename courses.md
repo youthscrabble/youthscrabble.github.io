@@ -6,7 +6,6 @@ title: Courses
 
 
 > #### **Department of Mechanical Engineering**
-
 * _Solid Mechanics_ (Autumn 2019)
 * _Fluid Mechanics_ (Autumn 2019)
 * _Structural Materials_ (Autumn 2019)
@@ -15,14 +14,13 @@ title: Courses
 * Mechanical Workshop (Autumn 2018)
 
 > #### **Department of Electrical Engineering**
-
 * _Electrical and Electronic Circuits_ (Autumn 2019)
 
 > #### **Systems and Control Engineering**
-* _Mathematical Structures for Control_ (Autumn 2019) (This is an M. Tech/PhD level course)
+* _Mathematical Structures for Control_ (Autumn 2019) (M. Tech/PhD level course)
 
 > #### **Industrial Engineering and Operations Research**
-* _Introduction to Stochastic Models_ (Autumn 2019) (This is an M. Tech/PhD level course)
+* _Introduction to Stochastic Models_ (Autumn 2019) (M. Tech/PhD level course)
 
 > #### **Department of Humanities and Social Sciences**
 * _Economics_ (Autumn 2019)
