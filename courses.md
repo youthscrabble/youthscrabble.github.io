@@ -4,7 +4,7 @@ title: Courses
 ---
 ### Courses undertaken at IIT Bombay
 
-#### **Department of Mechanical Engineering**
+> #### **Department of Mechanical Engineering**
 * Solid Mechanics (Autumn 2019)
 * Fluid Mechanics (Autumn 2019)
 * Structural Materials (Autumn 2019)
