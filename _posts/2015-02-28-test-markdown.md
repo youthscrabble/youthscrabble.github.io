@@ -2,10 +2,10 @@
 layout: post
 title:
 subtitle:
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+gh-repo:
+gh-badge:
+tags:
+comments: false
 ---
 
 Hi! This is [my](https://iyengaraditya.github.io/aboutme/) personal webpage.
