@@ -11,3 +11,5 @@ I'm currently pursuing minors in [Systems and Control Engineering](https://www.s
 I play Scrabble at the international level. You can find my all-time Scrabble tournament record [here](https://wespa.org/aardvark/cgi-bin/statsbootstrap.cgi?name1=Aditya%20Iyengar).
 
 I like travelling a lot and I have visited 13 countries till date. I also enjoy cycling and listening to music, particularly indie and psychedelic.
+
+You can also view my curriculum vitae [here](https://docs.google.com/document/d/1waNBQ8-TyYTIYPquEY_vTxaVupD-2DGOKNTJndSmY_s/edit?usp=sharing).
