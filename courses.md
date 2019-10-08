@@ -10,7 +10,7 @@ title: Courses
 * _Fluid Mechanics_ (Autumn 2019)
 * _Structural Materials_ (Autumn 2019)
 * _Thermodynamics_ (Autumn 2019)
-* Engineering Drawing (Fall 2019)
+* Engineering Drawing (Spring 2019)
 * Mechanical Workshop (Autumn 2018)
 
 > #### **Department of Electrical Engineering**
@@ -26,25 +26,25 @@ title: Courses
 * _Economics_ (Autumn 2019)
 
 > #### **Department of Mathematics**
-* Ordinary Differential Equations (Fall 2019)
-* Linear Algebra (Fall 2019)
+* Ordinary Differential Equations (Spring 2019)
+* Linear Algebra (Spring 2019)
 * Calculus (Autumn 2018)
 
 > #### **Department of Physics**
-* Electromagnetic Theory (Fall 2019)
+* Electromagnetic Theory (Spring 2019)
 * Quantum Physics and its Applications (Autumn 2018)
 * Physics Lab (Autumn 2018)
 
 > #### **Department of Civil Engineering**
-* Engineering Mechanics (Fall 2019)
+* Engineering Mechanics (Spring 2019)
 
 > #### **Department of Biosciences and Bioengineering**
-* Molecular and Cellular Biology (Fall 2019)
-* Physical Biology (Fall 2019)
-* Biomedical Engineering (Fall 2019)
+* Molecular and Cellular Biology (Spring 2019)
+* Physical Biology (Spring 2019)
+* Biomedical Engineering (Spring 2019)
 
 > #### **Department of Chemistry**
-* Chemistry Lab (Fall 2019)
+* Chemistry Lab (Spring 2019)
 * Inorganic and Organic Chemistry (Autumn 2018)
 * Physical Chemistry (Autumn 2018)
 
