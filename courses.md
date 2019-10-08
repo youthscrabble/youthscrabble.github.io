@@ -6,6 +6,7 @@ title: Courses
 
 
 > #### **Department of Mechanical Engineering**
+
 * _Solid Mechanics_ (Autumn 2019)
 * _Fluid Mechanics_ (Autumn 2019)
 * _Structural Materials_ (Autumn 2019)
@@ -14,6 +15,7 @@ title: Courses
 * Mechanical Workshop (Autumn 2018)
 
 > #### **Department of Electrical Engineering**
+
 * _Electrical and Electronic Circuits_ (Autumn 2019)
 
 > #### **Systems and Control Engineering**
