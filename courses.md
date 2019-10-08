@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 ---
-### Courses undertaken at IIT Bombay
+### Courses Undertaken at IIT Bombay
 
 
 > #### **Department of Mechanical Engineering**
