@@ -58,7 +58,13 @@ footer-link-col: "#404040"
 author:
   name: Aditya Iyengar
 
-
+social-network-links:
+  rss: true
+  email: "adityaiyengar@iitb.ac.in"
+  facebook: aditya.iyengar.50
+  github: iyengaraditya
+  instagram: adityaiyengar3108
+  linkedin: aditya-iyengar-096729184
 
 # Select which share links to show in posts
 share-links-active:
