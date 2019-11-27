@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Interests
+title: Interests
 ---
 
 I am currently working on designing a 'Fluid Flow Calibration System' at the THTF Lab, IIT Bombay.
