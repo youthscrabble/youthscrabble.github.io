@@ -6,29 +6,38 @@ title: Courses
 
 
 > #### **Department of Mechanical Engineering**
-* _Solid Mechanics_ (Autumn 2019)
-* _Fluid Mechanics_ (Autumn 2019)
-* _Structural Materials_ (Autumn 2019)
-* _Thermodynamics_ (Autumn 2019)
+* _Strength of Materials_ (Spring 2020)
+* _Manufacturing Processes_ (_Theory and Lab_) (Spring 2020)
+* _Mechanical Measurements_ (Spring 2020)
+* Solid Mechanics (Theory - Autumn 2019, _Lab_ - Spring 2020)
+* Fluid Mechanics (Theory - Autumn 2019, _Lab_ - Spring 2020)
+* Structural Materials (Autumn 2019)
+* Thermodynamics (Autumn 2019)
 * Engineering Drawing (Spring 2019)
 * Mechanical Workshop (Autumn 2018)
 
-> #### **Department of Electrical Engineering**
-* _Electrical and Electronic Circuits_ (Autumn 2019)
+> #### **Department of Computer Science and Engineering**
+* _Machine Learning_ (Spring 2020)
+* Computer Programming and Utilisation (Autumn 2018)
 
 > #### **Systems and Control Engineering**
-* _Mathematical Structures for Control_ (Autumn 2019) (M. Tech/PhD level course)
-
-> #### **Industrial Engineering and Operations Research**
-* _Introduction to Stochastic Models_ (Autumn 2019) (M. Tech/PhD level course)
-
-> #### **Department of Humanities and Social Sciences**
-* _Economics_ (Autumn 2019)
+* _Optimization_ (Spring 2020) (M. Tech/PhD level course)
+* Mathematical Structures for Control (Autumn 2019) (M. Tech/PhD level course)
 
 > #### **Department of Mathematics**
+* _Numerical Analysis_ (Spring 2020)
 * Ordinary Differential Equations (Spring 2019)
 * Linear Algebra (Spring 2019)
 * Calculus (Autumn 2018)
+
+> #### **Industrial Engineering and Operations Research**
+* Introduction to Stochastic Models (Autumn 2019) (M. Tech/PhD level course)
+
+> #### **Department of Electrical Engineering**
+* Electrical and Electronic Circuits (Autumn 2019)
+
+> #### **Department of Humanities and Social Sciences**
+* Economics (Autumn 2019)
 
 > #### **Department of Physics**
 * Electromagnetic Theory (Spring 2019)
@@ -48,5 +57,3 @@ title: Courses
 * Inorganic and Organic Chemistry (Autumn 2018)
 * Physical Chemistry (Autumn 2018)
 
-> #### **Department of Computer Science and Engineering**
-* Computer Programming and Utilisation (Autumn 2018)
