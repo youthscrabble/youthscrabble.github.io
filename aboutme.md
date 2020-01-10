@@ -17,7 +17,7 @@ I'm also an avid reader and you can, more often than not, find me immersed in a 
 You can view a verified version of my _curriculum vitae_ [here](Two Page Tech.pdf).
 
 You can direct your brickbats and plaudits at me in one of the following ways:
-* Email: adityaiyengar (AT) iitb (DOT) ac (DOT) in
-* Telephone: SEVEN (TRIPLE EIGHT) ZERO FOUR FOUR EIGHT FIVE ZERO
+* **Email**: adityaiyengar (AT) iitb (DOT) ac (DOT) in
+* **Telephone**: SEVEN (TRIPLE EIGHT) ZERO FOUR FOUR EIGHT FIVE ZERO
 
 For easy access, I've also created some handy plug-ins that you can find at the bottom of your screen, that you can use to reach me on different platforms.
