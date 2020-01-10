@@ -20,4 +20,4 @@ You can direct your brickbats and plaudits at me in one of the following ways:
 * **Email**: adityaiyengar (AT) iitb (DOT) ac (DOT) in
 * **Telephone**: SEVEN (TRIPLE EIGHT) ZERO FOUR FOUR EIGHT FIVE ZERO
 
-For easy access, I've also created some handy plug-ins that you can find at the bottom of your screen, that you can use to reach me on different platforms.
+For easy access, I've also created some handy plug-ins that you can find at the bottom of your screen, that you can use to reach out to me on different platforms.
