@@ -7,7 +7,7 @@ Hi! I'm Aditya Iyengar and this is my personal webpage. I would like to maintain
 
 I am a second year undergraduate student at **IIT Bombay**. My major is in [Mechanical Engineering](https://www.me.iitb.ac.in).
 I'm currently pursuing a minor in [Computer Science](https://www.cse.iitb.ac.in).
-My interests broadly lie in the areas of **Fluid Dynamics**, **Stochastic Models** and **Mechatronics**.
+My interests broadly lie in the areas of **Fluid Dynamics**, **Stochastic Models** and **Pattern Recognition**.
 
 I play **Scrabble** at the international level. I've represented India at multiple World Championships, both open and age-group. You can find my all-time Scrabble tournament record [here](https://wespa.org/aardvark/cgi-bin/statsbootstrap.cgi?name1=Aditya%20Iyengar).
 
