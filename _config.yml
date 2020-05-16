@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Home
+title: Youth Scrabble
 
 # Short description of your site
-description: Aditya Iyengar
+description: Under the aegis of WESPA
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -30,7 +30,7 @@ navbar-links:
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://avatars0.githubusercontent.com/u/56295215?s=400&u=d4be54ddc09cc942ff9a6e180b31d2e60fc5cb61&v=4"
+# avatar: "https://avatars0.githubusercontent.com/u/56295215?s=400&u=d4be54ddc09cc942ff9a6e180b31d2e60fc5cb61&v=4"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: © Copyright Aditya Iyengar, All Rights Reserved
+  name: © Copyright WESPA, All Rights Reserved
 
 social-network-links:
   email: "adityaiyengar@iitb.ac.in"
