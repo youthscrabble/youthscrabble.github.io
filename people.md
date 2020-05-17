@@ -4,6 +4,7 @@ title: People
 ---
 The WESPA Youth Cup happens every year due to the tireless efforts of the WESPA Youth Committee.  
 Contact the representatives from your country for more information.  
+
 | **Name**                | **Country**   | **Email Address**           |
 |------------------------	|-------------	|----------------------------	|
 | Karen Richards (Chair) 	| Australia   	| karen.d.richards@gmail.com 	|
