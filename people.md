@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: The WESPA Youth Cup happens every year due to the tireless efforts of the WESPA Youth Committee. Contact the representatives from your country for more information.  
+subtitle: The WESPA Youth Cup happens every year due to the tireless efforts of the WESPA Youth Committee. Contact your country representative for more information.  
 
 ---
 | Name              | Country   | Email Address           |
