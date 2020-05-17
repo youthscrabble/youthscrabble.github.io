@@ -43,13 +43,13 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#4D79B3"
+navbar-col: "mediumspringgreen"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#4D79B3"
+footer-col: "mediumspringgreen"
 footer-text-col: "#404040"
 footer-link-col: "#F5F5F5"
 
@@ -58,7 +58,7 @@ footer-link-col: "#F5F5F5"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "WYC2019_Top10.jpg"
 
 # --- Footer options --- #
 
