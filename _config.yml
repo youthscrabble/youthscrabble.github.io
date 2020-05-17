@@ -4,7 +4,7 @@
 title: Youth Scrabble
 
 # Short description of your site
-description: The home of the WESPA Youth Committee
+description: WESPA Youth Cup
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -24,7 +24,8 @@ navbar-links:
   People: "people"
   Events: "events"
   Play Scrabble:
-    - 
+    - Laptops and PCs: "pcplay"
+    - Phones and Tablets: "mobplay"
   Resources:
     - Tutorials: "tutorials"
     - Word Study: "wordstudy"
@@ -51,7 +52,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "mediumspringgreen"
 footer-text-col: "#404040"
-footer-link-col: "#F5F5F5"
+footer-link-col: "lightseagreen"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
