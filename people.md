@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: People
 ---
 The WESPA Youth Cup happens every year due to the tireless efforts of the WESPA Youth Committee.  
 Contact the representatives from your country for more information.  
