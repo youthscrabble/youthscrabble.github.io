@@ -47,7 +47,7 @@ navbar-links:
 navbar-col: "mediumspringgreen"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+# page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "mediumspringgreen"
@@ -57,9 +57,9 @@ footer-link-col: "lightseagreen"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
+page-img: "WYC2019_Top10.jpg"
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "WYC2019_Top10.jpg"
 
 # --- Footer options --- #
 
