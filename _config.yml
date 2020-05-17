@@ -57,7 +57,7 @@ footer-link-col: "lightseagreen"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-page-img: "WYC2019_Top10.jpg"
+page-img: "/img/WYC2019_Top10.jpg"
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 
