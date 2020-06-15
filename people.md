@@ -4,7 +4,6 @@ title: People
 subtitle: The WESPA Youth Cup happens every year due to the tireless efforts of the WESPA Youth Committee. Contact your country representative for more information.  
 
 ---
-<center>
   
 | __NAME__                    | __COUNTRY__   | __EMAIL ADDRESS__           |
 |:------------------------:|:-------------:|:----------------------------:|
@@ -21,5 +20,3 @@ subtitle: The WESPA Youth Cup happens every year due to the tireless efforts of 
 | Ruvini Fernando        	| Sri Lanka   	| ruvinif@carcumb.com        	|
 | Akkarapol Kwansak      	| Thailand    	| akkarapolkwansak@gmail.com 	|
 | Cornelia Guest         	| USA         	| corneliaguest@gmail.com    	|
-
-</center>
