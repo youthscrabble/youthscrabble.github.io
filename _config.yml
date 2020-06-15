@@ -46,7 +46,7 @@ navbar-links:
 
 navbar-col: "midnightblue"
 navbar-text-col: "gold"
-navbar-children-col: "gold"
+navbar-children-col: "midnightblue"
 page-col: "oldlace"
 link-col: "#008AFF"
 hover-col: "#0085A1"
