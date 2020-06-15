@@ -5,6 +5,8 @@ subtitle: The WESPA Youth Cup happens every year due to the tireless efforts of 
 
 ---
   
+The Youth Commitee Report for the 2019 BGM can be found [here](2019 Report.pdf).
+  
 | __NAME__                    | __COUNTRY__   | __EMAIL ADDRESS__           |
 |:------------------------:|:-------------:|:----------------------------:|
 | Karen Richards (Chair) 	| Australia   	| [karen.d.richards@gmail.com](mailto:karen.d.richards@gmail.com) 	|
