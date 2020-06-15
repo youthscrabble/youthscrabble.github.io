@@ -44,13 +44,13 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "cadetblue"
+navbar-col: "midnightblue"
 navbar-text-col: "white"
 navbar-children-col: "deeppink"
 page-col: "aliceblue"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "cadetblue"
+footer-col: "midnightblue"
 footer-text-col: "white"
 footer-link-col: "deeppink"
 
