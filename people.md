@@ -7,7 +7,7 @@ subtitle: The WESPA Youth Cup happens every year due to the tireless efforts of 
 
 | __NAME__                    | __COUNTRY__   | __EMAIL ADDRESS__           |
 |:------------------------:|:-------------:|:----------------------------:|
-| Karen Richards (Chair) 	| Australia   	| karen.d.richards@gmail.com 	|
+| Karen Richards (Chair) 	| Australia   	| [karen.d.richards@gmail.com](mailto:karen.d.richards@gmail.com) 	|
 | Shan Abbasi            	| Canada      	| shan19@gmail.com           	|
 | Chris Lau              	| Hong Kong   	| chris.lau@hkscrabble.org   	|
 | Aditya Iyengar         	| India       	| adityaiyengar123@yahoo.com 	|
